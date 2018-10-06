@@ -6,5 +6,5 @@ Note to examine:
 - Data examine:
     + Column MFCC mean1-4 to remove
     + Chroma seems to be normalized already
-    + Column Rhythm 24 not to be taken into account 
-    + Column MFCC_Min_1 seems to have a lot missing variables 
+    + Column Rhythm 24 not to be taken into account and look for values 1.066 (?)
+    + Column MFCC_Min_1 seems to have a lot missing variables  (value = 0)
